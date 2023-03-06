@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Truly-Depressed-Developers/progresso-server
+[submodule "client"]
+	path = client
+	url = https://github.com/Truly-Depressed-Developers/progresso-client
